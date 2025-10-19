@@ -35,7 +35,7 @@ Preprocessing steps included:
 
 ## Methodology
 
-### 🧹 Data Preprocessing
+###  Data Preprocessing
 - Cleaned and encoded categorical URL features.  
 - Balanced the dataset using **SMOTE (Synthetic Minority Oversampling Technique)**.  
 - Scaled numeric features to optimize model performance.  
